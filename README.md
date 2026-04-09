@@ -51,7 +51,6 @@ npm run preview
 You can deploy the `dist` output to:
 
 - Vercel
-- Netlify
 - GitHub Pages (with a Vite pages workflow)
 
 ## Notes
